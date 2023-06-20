@@ -1,0 +1,12 @@
+debug perft 11
+depth 1: 4
+depth 2: 12
+depth 3: 56
+depth 4: 244
+depth 5: 1396
+depth 6: 8200
+depth 7: 55092 time: 0.015s speed: 3669375 node/s
+depth 8: 390216 time: 0.064s speed: 6086093 node/s
+depth 9: 3005288 time: 0.443s speed: 6787270 node/s
+depth 10: 24571284 time: 3.466s speed: 7089724 node/s
+depth 11: 212258800 time: 29.423s speed: 7214050 node/s
